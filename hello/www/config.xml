@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.example.hello" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>JMU Dining App</name>
     <description>
         A quick dining services app that shows all available restaurants on campus, along with their hours.
@@ -8,6 +8,6 @@
         Taylor DeTroye
     </author>
     <icon src="icon.png" />
-    <content src="index.html" />
+    <content src="main.html" />
     <access origin="*" />
 </widget>
