@@ -1,11 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.example.hello" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>JMU Dining App</name>
     <description>
         A quick dining services app that shows all available restaurants on campus, along with their hours.
     </description>
     <author email="detroytm@dukes.jmu.edu">
         Taylor DeTroye
+        Josh Feshari
+        Kevin Coleman
     </author>
     <icon src="icon.png" />
     <content src="main.html" />

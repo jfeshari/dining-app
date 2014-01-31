@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.example.hello" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.example.hello" version="0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Hello Cordova</name>
     <description>
         A sample Apache Cordova application that responds to the deviceready event.
@@ -25,6 +25,8 @@
     </description>
     <author email="detroytm@dukes.jmu.edu" href="http://cordova.io">
         Taylor DeTroye
+        Josh Feshari
+        Kevin Coleman
     </author>
     <icon src="icon.png" />
     <content src="main.html" />
