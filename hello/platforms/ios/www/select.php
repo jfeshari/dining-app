@@ -1,4 +1,4 @@
 <?php
-    if(echo string($_POST) == "festi")
+    $name = $_POST['name'];
+    if("festi" == $name)
     print "HELLO";
-?>

@@ -3,31 +3,25 @@
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
+        <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
         <title>JMU Dining</title>
     </head>
     <body>
         <br>
         <br>
-        <h1>East Campus</h1>
-        <br>
-        <form action="select.php" method="post">
-            <input type="submit" value="East Campus Dining Hall" name="ehall" />
-            <input type="submit" value="Festival" name="festi" />
-            <input type="submit" value="Java City @ Festival" name="jcfesti" />
-            <input type="submit" value="Jemmy's Market" name="jemmys" />
-        </form>
-        <br>
-        <br>
-        <h1>Main Campus</h1>
-        <br>
-        <form action="maincampus.html" method="post">
-            <input type="submit" value="Top Dog" name="topdog" />
-            <input type="submit" value="PC Dukes" name="pcdukes" />
-            <input type="submit" value="D Hall" name="dhall" />
-            <input type="submit" value="Market One" name="market" />
-        </form>
-        <br>
-        <br>
+        <ul data-role="listview" data-filter="true" data-filter-placeholder="Search restaurants" data-inset="true" data-divider-theme="a">
+            <li data-role="list-divider">East Campus</li>
+            <li><a href="eastcampus.html?choice=ecdh" data-transition="slide">East Campus Dining Hall</a></li>
+            <li><a href="eastcampus.html?choice=festi" data-transition="slide">Festival</a></li>
+            <li><a href="eastcampus.html?choice=fjava" data-transition="slide">Java City @ Festival</a></li>
+            <li><a href="eastcampus.html?choice=jemmys" data-transition="slide">Jemmy's Market</a></li>
+            <li data-role="list-divider">Main Campus</li>
+            <li><a href="maincampus.html?choice=dhall" data-transition="slide">D Hall</a></li>
+            <li><a href="maincampus.html?choice=topdog" data-transition="slide">Top Dog</a></li>
+            <li><a href="maincampus.html?choice=dukes" data-transition="slide">PC Dukes</a></li>
+            <li><a href="maincampus.html?choice=market" data-transition="slide">Market One</a></li>
+        </ul>
     </body>
 </html>

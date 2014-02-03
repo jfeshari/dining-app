@@ -3,14 +3,43 @@
         <meta charset="utf-8" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, target-densitydpi=device-dpi" />
-        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.css" />
+        <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+        <script src="http://code.jquery.com/mobile/1.4.0/jquery.mobile-1.4.0.min.js"></script>
         <title>JMU Dining</title>
     </head>
     <body>
         <br>
-        <a href="main.html">Back</a>
+        <a href="main.html" class="ui-btn ui-btn-inline" data-transition="slide">Back</a>
         <br>
-        <h1>Hours</h1>
-        Festival: 11-9
+        <ul data-role="listview" data-filter="true" data-filter-placeholder="Search food" data-inset="true">
+            <li>Hours: </li>
+            <li><div data-role="collapsible" data-inset="false">
+                <h4>Places</h4>
+                <ul data-role="listview">
+                    <li><div data-role="collapsible">
+                        <h4>Bistro</h4>
+                        <ul data-role="listview" data-inset="false">
+                            <li>Food</li>
+                            <li>More food</li>
+                        </ul>
+                    </li>
+                    <li><div data-role="collapsible">
+                        <h4>Produce</h4>
+                        <ul data-role="listview" data-inset="false">
+                            <li>Food</li>
+                            <li>More food</li>
+                        </ul>
+                    </li>
+                    <li><div data-role="collapsible">
+                        <h4>Deli</h4>
+                        <ul data-role="listview" data-inset="false">
+                            <li>Food</li>
+                            <li>More food</li>
+                        </ul>
+                    </li>
+                </ul>
+            </li>
+        </ul>
     </body>
 </html>
