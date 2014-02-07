@@ -9,12 +9,27 @@
         <title>JMU Dining</title>
     </head>
     <body>
+        <!--<script>
+            jQuery(function($){
+                $('li:first-child').html("Hours: Breakfast: 7-10:30");
+                   });
+        </script>-->
+        <script>
+            if(storeCode.name == 'ecdh')
+            {
+                document.getElementById('answer').innerHTML = "Breakfast: 7-10";
+            }
+            else if(storeCode.name == 'festi')
+            {
+                document.getElementById('answer').innerHTML = "Lunch: 2-6";
+            }
+        </script>
         <br>
-        <a href="main.html" class="ui-btn ui-btn-inline" data-transition="slide">Back</a>
+        <a href="main.html" class="ui-btn ui-btn-inline" data-transition="slide" data-direction="reverse">Back</a>
         <br>
         <ul data-role="listview" data-filter="true" data-filter-placeholder="Search food" data-inset="true">
-            <li>Hours: </li>
-            <li><div data-role="collapsible" data-inset="false">
+            <li>Hours: <div id='answer'></div></li>
+            <!--<li><div data-role="collapsible" data-inset="false">
                 <h4>Places</h4>
                 <ul data-role="listview">
                     <li><div data-role="collapsible">
@@ -39,7 +54,7 @@
                         </ul>
                     </li>
                 </ul>
-            </li>
+            </li>-->
         </ul>
     </body>
 </html>

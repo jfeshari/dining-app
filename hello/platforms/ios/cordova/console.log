@@ -234,3 +234,134 @@ Terminating in response to SpringBoard's termination.
 2014-02-03 15:11:59.050 JMU Dining App[44657:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
 2014-02-03 15:12:05.649 JMU Dining App[44657:a0b] CDVWebViewDelegate: Navigation started when state=1
 2014-02-03 15:12:05.650 JMU Dining App[44657:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-05 14:42:54.062 JMU Dining App[51600:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 14:42:54.199 JMU Dining App[51600:a0b] Unlimited access to network resources
+2014-02-05 14:42:59.726 JMU Dining App[51600:a0b] Resetting plugins due to page load.
+2014-02-05 14:43:01.169 JMU Dining App[51600:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4077C662-77B7-4CDB-999A-0AD5A592BBDD/JMU%20Dining%20App.app/www/main.html
+2014-02-05 14:45:05.458 JMU Dining App[51873:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 14:45:05.519 JMU Dining App[51873:a0b] Unlimited access to network resources
+2014-02-05 14:45:06.199 JMU Dining App[51873:a0b] Resetting plugins due to page load.
+2014-02-05 14:45:07.003 JMU Dining App[51873:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4077C662-77B7-4CDB-999A-0AD5A592BBDD/JMU%20Dining%20App.app/www/main.html
+2014-02-05 14:52:07.426 JMU Dining App[52406:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 14:52:07.458 JMU Dining App[52406:a0b] Unlimited access to network resources
+2014-02-05 14:52:08.182 JMU Dining App[52406:a0b] Resetting plugins due to page load.
+2014-02-05 14:52:09.015 JMU Dining App[52406:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4077C662-77B7-4CDB-999A-0AD5A592BBDD/JMU%20Dining%20App.app/www/main.html
+2014-02-05 14:58:56.404 JMU Dining App[52895:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 14:58:56.449 JMU Dining App[52895:a0b] Unlimited access to network resources
+2014-02-05 14:58:57.335 JMU Dining App[52895:a0b] Resetting plugins due to page load.
+2014-02-05 14:58:58.045 JMU Dining App[52895:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/4077C662-77B7-4CDB-999A-0AD5A592BBDD/JMU%20Dining%20App.app/www/main.html
+2014-02-05 15:02:27.918 JMU Dining App[53402:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 15:02:28.237 JMU Dining App[53402:a0b] Unlimited access to network resources
+2014-02-05 15:02:28.950 JMU Dining App[53402:a0b] Resetting plugins due to page load.
+2014-02-05 15:02:30.382 JMU Dining App[53402:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-05 15:04:13.865 JMU Dining App[53842:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 15:04:13.901 JMU Dining App[53842:a0b] Unlimited access to network resources
+2014-02-05 15:04:14.645 JMU Dining App[53842:a0b] Resetting plugins due to page load.
+2014-02-05 15:04:25.315 JMU Dining App[53842:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-05 15:04:29.797 JMU Dining App[53842:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-05 15:04:29.798 JMU Dining App[53842:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-05 15:04:33.099 JMU Dining App[53842:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-05 15:04:33.099 JMU Dining App[53842:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-05 15:10:56.183 JMU Dining App[54340:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 15:10:56.223 JMU Dining App[54340:a0b] Unlimited access to network resources
+2014-02-05 15:10:56.562 JMU Dining App[54340:a0b] Resetting plugins due to page load.
+2014-02-05 15:10:57.754 JMU Dining App[54340:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-05 15:15:32.000 JMU Dining App[54812:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 15:15:32.083 JMU Dining App[54812:a0b] Unlimited access to network resources
+2014-02-05 15:15:33.049 JMU Dining App[54812:a0b] Resetting plugins due to page load.
+2014-02-05 15:15:34.379 JMU Dining App[54812:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+Terminating in response to SpringBoard's termination.
+2014-02-05 15:18:10.909 JMU Dining App[55270:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-05 15:18:11.113 JMU Dining App[55270:a0b] Unlimited access to network resources
+2014-02-05 15:18:11.721 JMU Dining App[55270:a0b] Resetting plugins due to page load.
+2014-02-05 15:18:13.043 JMU Dining App[55270:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:21:56.016 JMU Dining App[2090:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:21:56.040 JMU Dining App[2090:a0b] Unlimited access to network resources
+2014-02-07 10:21:56.518 JMU Dining App[2090:a0b] Resetting plugins due to page load.
+2014-02-07 10:21:57.200 JMU Dining App[2090:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:22:12.772 JMU Dining App[2090:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:22:12.773 JMU Dining App[2090:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:22:15.766 JMU Dining App[2090:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:22:15.767 JMU Dining App[2090:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:22:18.148 JMU Dining App[2090:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:22:18.149 JMU Dining App[2090:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-02-07 10:23:09.857 JMU Dining App[2536:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:23:09.880 JMU Dining App[2536:a0b] Unlimited access to network resources
+2014-02-07 10:23:10.308 JMU Dining App[2536:a0b] Resetting plugins due to page load.
+2014-02-07 10:23:10.964 JMU Dining App[2536:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:23:25.895 JMU Dining App[2536:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:23:25.896 JMU Dining App[2536:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:23:28.298 JMU Dining App[2536:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:23:28.298 JMU Dining App[2536:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:34:18.162 JMU Dining App[3262:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:34:18.180 JMU Dining App[3262:a0b] Unlimited access to network resources
+2014-02-07 10:34:18.576 JMU Dining App[3262:a0b] Resetting plugins due to page load.
+2014-02-07 10:34:19.297 JMU Dining App[3262:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:34:26.720 JMU Dining App[3262:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:34:26.720 JMU Dining App[3262:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:39:04.906 JMU Dining App[3564:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:39:04.916 JMU Dining App[3564:a0b] Unlimited access to network resources
+2014-02-07 10:39:05.108 JMU Dining App[3564:a0b] Resetting plugins due to page load.
+2014-02-07 10:39:05.930 JMU Dining App[3564:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:39:20.153 JMU Dining App[3564:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:39:20.154 JMU Dining App[3564:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:39:43.288 JMU Dining App[3564:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:39:43.288 JMU Dining App[3564:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:40:39.151 JMU Dining App[3820:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:40:39.167 JMU Dining App[3820:a0b] Unlimited access to network resources
+2014-02-07 10:40:39.555 JMU Dining App[3820:a0b] Resetting plugins due to page load.
+2014-02-07 10:40:40.266 JMU Dining App[3820:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 10:40:52.476 JMU Dining App[3820:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:40:52.477 JMU Dining App[3820:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:41:03.896 JMU Dining App[3820:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:41:03.897 JMU Dining App[3820:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 10:43:01.142 JMU Dining App[4274:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 10:43:01.167 JMU Dining App[4274:a0b] Unlimited access to network resources
+2014-02-07 10:43:01.641 JMU Dining App[4274:a0b] Resetting plugins due to page load.
+2014-02-07 10:43:02.063 JMU Dining App[4274:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:02:00.051 JMU Dining App[4998:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:02:00.256 JMU Dining App[4998:a0b] Unlimited access to network resources
+2014-02-07 11:02:04.756 JMU Dining App[4998:a0b] Resetting plugins due to page load.
+2014-02-07 11:02:05.919 JMU Dining App[4998:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:05:17.333 JMU Dining App[5471:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:05:17.350 JMU Dining App[5471:a0b] Unlimited access to network resources
+2014-02-07 11:05:17.861 JMU Dining App[5471:a0b] Resetting plugins due to page load.
+2014-02-07 11:05:18.780 JMU Dining App[5471:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:05:27.783 JMU Dining App[5471:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:05:27.784 JMU Dining App[5471:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:05:27.789 JMU Dining App[5471:a0b] Resetting plugins due to page load.
+2014-02-07 11:05:27.920 JMU Dining App[5471:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:05:31.647 JMU Dining App[5471:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:05:31.647 JMU Dining App[5471:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:05:31.648 JMU Dining App[5471:a0b] Resetting plugins due to page load.
+2014-02-07 11:05:31.758 JMU Dining App[5471:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:14:27.503 JMU Dining App[5988:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:14:27.565 JMU Dining App[5988:a0b] Unlimited access to network resources
+2014-02-07 11:14:28.193 JMU Dining App[5988:a0b] Resetting plugins due to page load.
+2014-02-07 11:14:29.225 JMU Dining App[5988:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:14:38.521 JMU Dining App[5988:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:14:38.522 JMU Dining App[5988:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:14:49.207 JMU Dining App[5988:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:14:49.208 JMU Dining App[5988:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:20:03.030 JMU Dining App[6473:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:20:03.048 JMU Dining App[6473:a0b] Unlimited access to network resources
+2014-02-07 11:20:03.464 JMU Dining App[6473:a0b] Resetting plugins due to page load.
+2014-02-07 11:20:04.410 JMU Dining App[6473:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:20:27.936 JMU Dining App[6473:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:20:27.937 JMU Dining App[6473:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+Terminating in response to SpringBoard's termination.
+2014-02-07 11:28:46.499 JMU Dining App[6980:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:28:46.516 JMU Dining App[6980:a0b] Unlimited access to network resources
+2014-02-07 11:28:47.008 JMU Dining App[6980:a0b] Resetting plugins due to page load.
+2014-02-07 11:28:47.666 JMU Dining App[6980:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:29:24.190 JMU Dining App[6980:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:29:24.190 JMU Dining App[6980:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:30:20.085 JMU Dining App[7425:a0b] Multi-tasking -> Device: YES, App: YES
+2014-02-07 11:30:20.111 JMU Dining App[7425:a0b] Unlimited access to network resources
+2014-02-07 11:30:20.585 JMU Dining App[7425:a0b] Resetting plugins due to page load.
+2014-02-07 11:30:21.099 JMU Dining App[7425:a0b] Finished load of: file:///Users/TaylorStuff/Library/Application%20Support/iPhone%20Simulator/7.0.3/Applications/5890CC38-68F4-49DE-985C-2871CEC7A555/JMU%20Dining%20App.app/www/main.html
+2014-02-07 11:30:30.055 JMU Dining App[7425:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:30:30.055 JMU Dining App[7425:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:30:34.165 JMU Dining App[7425:a0b] CDVWebViewDelegate: Navigation started when state=1
+2014-02-07 11:30:34.165 JMU Dining App[7425:a0b] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
