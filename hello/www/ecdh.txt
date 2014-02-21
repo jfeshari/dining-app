@@ -1,0 +1,18 @@
+<li>Hours: <br>Breakfast: 7-10:30<br>Lunch: 11-2:30<br>Dinner: 4:30-7:30</li>
+<li><div data-role="collapsible" data-inset="false">
+	<h4>Places</h4>
+	<ul data-role="listview">
+		<li><div data-role="collapsible">
+			<h4>Bistro</h4>
+			<ul data-role="listview" data-inset="false">
+				<li>menu</li>
+			</ul>
+		</li>
+		<li><div data-role="collapsible">
+			<h4>Produce</h4>
+			<ul data-role="listview" data-inset="false">
+				<li>menu</li>
+			</ul>
+		</li>
+	</ul>
+</li>
